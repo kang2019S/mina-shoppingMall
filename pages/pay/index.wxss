@@ -1,0 +1,10 @@
+.pay {
+    font-size: 30rpx;
+    font-weight: 600;
+    color: red;
+}
+
+image {
+    width: 100%;
+    padding: 20rpx;
+}
